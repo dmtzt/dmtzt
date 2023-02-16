@@ -1,6 +1,6 @@
 # Hi! I'm David Martínez 👋 welcome to my GitHub profile 🙌
 
-### Data Science and Machine Learning Professional | Software Engineer
+**`Data Science and Machine Learning Professional | Software Engineer`**
 
 ## Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
