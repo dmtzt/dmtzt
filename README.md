@@ -11,7 +11,7 @@
 <br>
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)![Colab](https://img.shields.io/badge/Colab-%23525252.svg?style=for-the-badge&logo=Google-Colab&logoColor=F9AB00)
 
-## Let's connect!
+## Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-David_Alejandro_Martínez_Tristán-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/dmtzt/)
 <br>
 [![Kaggle](https://img.shields.io/badge/Kaggle-@davidmtzt-20BEFF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.kaggle.com/davidmtzt)
