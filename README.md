@@ -14,4 +14,4 @@
 ## Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-David_Alejandro_Martínez_Tristán-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/dmtzt/)
 <br>
-[![Kaggle](https://img.shields.io/badge/Kaggle-@davidmtzt-20BEFF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.kaggle.com/davidmtzt)
+[![Kaggle](https://img.shields.io/badge/Kaggle-@davidmtzt-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=101010)](https://www.kaggle.com/davidmtzt)
