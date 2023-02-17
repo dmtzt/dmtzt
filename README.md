@@ -10,3 +10,6 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)![Matplotlib](https://img.shields.io/badge/Matplotlib-%2311557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)![Apache Spark](https://img.shields.io/badge/Apache%20Spark-%23E25A1C.svg?style=for-the-badge&logo=Apache-Spark&logoColor=white)
 <br>
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)![Colab](https://img.shields.io/badge/Colab-%23525252.svg?style=for-the-badge&logo=Google-Colab&logoColor=F9AB00)
+
+## Let's connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-David_Alejandro_Martínez_Tristán-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/dmtzt/)
